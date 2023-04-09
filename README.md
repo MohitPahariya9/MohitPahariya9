@@ -6,11 +6,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpahariya9" alt="mohitpahariya9" /></a> </p></br> -->
 
-- 🔭 I’m currently working on **Web development**
+- 👀 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 📚 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, EXpress**
+- 🤝🏽 Ask me about **HTML, CSS, JavaScript, NodeJS, EXpress**
 
 - 📫 How to reach me **pahariyamohit9@gmail.com**
 
