@@ -1,7 +1,7 @@
 ![logo](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Mohit Pahariya</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="coding" width="250" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpahariya9&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpahariya9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitpahariya9" alt="mohitpahariya9" /></a> </p>
