@@ -16,7 +16,10 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-pahariya-1b9a56271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-pahariya-1b9a56271/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-pahariya-1b9a56271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-pahariya-1b9a56271/" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://github.com/MohitPahariya9/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="https://github.com/MohitPahariya9/" height="30" width="40" /></a>
 </p></br></br>
 
 <h3 align="left">Languages and Tools:</h3>
