@@ -45,4 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitpahariya9&show_icons=true&locale=en" alt="mohitpahariya9" /></p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpahariya9&" alt="mohitpahariya9" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohitpahariya9&theme=radical&border_radius=10&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MohitPahariya9&theme=radical&border_radius=10&card_width=500)](https://git.io/streak-stats)
