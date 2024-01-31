@@ -49,3 +49,4 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpahariya9" alt="GitHub Streak" /></a>-->
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitPahariya9" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MohitPahariya9" alt="GitHub Streak" /></a>
