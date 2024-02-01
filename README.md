@@ -45,10 +45,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohitPahariya9&show_icons=true&locale=en" alt="MohitPahariya9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitPahariya9" alt="MohitPahariya9" /></p><br>
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=mohitpahariya9)](https://git.io/streak-stats)
+<!-- <!--[![GitHub Streak](https://streak-stats.demolab.com?user=mohitpahariya9)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpahariya9" alt="GitHub Streak" /></a>-->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpahariya9" alt="GitHub Streak" /></a>
+<!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpahariya9" alt="GitHub Streak" /></a>-->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MohitPahariya9" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MohitPahariya9)](https://git.io/streak-stats)
